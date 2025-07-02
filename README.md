@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on mastering **C++ with Data Structures and Algorithms**
 - 🌱 I’m learning **Full-Stack Web Development** (HTML, CSS, JavaScript, React, Node.js)
 - 💬 Ask me about **DSA problems, web projects, or how to get started in programming**
-- 📫 How to reach me: [sushilugale04@gmail.com] | [LinkedIn profile link]
+- 📫 How to reach me: [sushilugale04@gmail.com] | [https://github.com/sushil9011]
 - ⚡ Fun fact: I believe coding + coffee ☕ = perfect combo!
 
 ---
@@ -22,15 +22,17 @@
 ---
 
 📌 **My Current Projects**
-- 🔹 **DSA Practice in C++**: Solving problems daily and uploading to [DSA-Practice Repo](#) (replace # with your repo link).
+- 🔹 **DSA Practice in C++**: Solving problems daily and uploading to [DSA-Practice Repo](#) (https://github.com/sushil9011/CPP-Language).
 - 🔹 **[Flipkart prototype]**: Short one-line description of what it does.
 
 ---
 
 📫 **Let’s Connect**
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">https://github.com/sushil9011</a>
-  <a href="sushilugale04@gmail.com"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"> = https://github.com/sushil9011</a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"> = sushilugale04@gmail.com </a>
+</p>
+
 </p>
 
 ---
