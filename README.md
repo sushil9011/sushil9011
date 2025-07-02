@@ -29,7 +29,7 @@
 
 📫 **Let’s Connect**
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">https://github.com/sushil9011</a>
   <a href="sushilugale04@gmail.com"></a>
 </p>
 
