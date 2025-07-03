@@ -22,7 +22,9 @@
 🛠️ Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,git,github,vscode" alt="Skills" /> </p>
 😂 Developer Meme of the Day
-<p align="center"> <img src=""https://memes.co.in/funny-memes/video/1895/hum-gareeb-hain-gaddar-nahi-binod-funny-memes-download"" alt="Funny Developer Meme" width="500"/> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400"/>
+</p>
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushil9011&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushil9011&theme=tokyonight" alt="GitHub Streak" /> </p>
 🌐 Connect with Me
