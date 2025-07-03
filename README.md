@@ -21,6 +21,8 @@
 
 🛠️ Tech Toolbox
 <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,git,github,vscode" alt="Skills" /> </p>
+😂 Developer Meme of the Day
+<p align="center"> <img src="https://i.imgflip.com/4/3vzejb.jpg" alt="Funny Developer Meme" width="500"/> </p>
 📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sushil9011&show_icons=true&theme=tokyonight" alt="GitHub Stats" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushil9011&theme=tokyonight" alt="GitHub Streak" /> </p>
 🌐 Connect with Me
